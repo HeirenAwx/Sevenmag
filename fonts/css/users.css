@@ -359,8 +359,8 @@
 @media screen and (max-width: 1031px) {
     .user-fa-arrow {
         font-size: 14px;
-        float: left;
-        padding: 9px 0 0 6px;
+        float: right;
+        padding: 9px 0 0 0;
     }
 }
 
@@ -542,7 +542,7 @@
 
     .user-fa-arrow {
         font-size: 3vw;
-        padding: 7.03125% 0 0 1.257861635220126vw;
+        padding: 7.03125% 0 0 0;
     }
 
     .user-fa-search {
